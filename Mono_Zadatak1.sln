@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.App", "Mono_Zadatak1\Project.App.csproj", "{A1F57B85-7CF6-42B3-8644-D6016CF39DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Code", "Project.Code\Project.Code.csproj", "{1F620C12-D299-48F4-8C4C-E82BF4BA4C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F57B85-7CF6-42B3-8644-D6016CF39DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F57B85-7CF6-42B3-8644-D6016CF39DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F57B85-7CF6-42B3-8644-D6016CF39DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F57B85-7CF6-42B3-8644-D6016CF39DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F620C12-D299-48F4-8C4C-E82BF4BA4C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F620C12-D299-48F4-8C4C-E82BF4BA4C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F620C12-D299-48F4-8C4C-E82BF4BA4C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F620C12-D299-48F4-8C4C-E82BF4BA4C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

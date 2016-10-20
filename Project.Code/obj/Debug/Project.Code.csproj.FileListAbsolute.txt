@@ -1,0 +1,5 @@
+c:\users\josip\documents\visual studio 2015\Projects\Mono_Zadatak1\Project.Code\bin\Debug\Project.Code.dll
+c:\users\josip\documents\visual studio 2015\Projects\Mono_Zadatak1\Project.Code\bin\Debug\Project.Code.pdb
+c:\users\josip\documents\visual studio 2015\Projects\Mono_Zadatak1\Project.Code\obj\Debug\Project.Code.csprojResolveAssemblyReference.cache
+c:\users\josip\documents\visual studio 2015\Projects\Mono_Zadatak1\Project.Code\obj\Debug\Project.Code.dll
+c:\users\josip\documents\visual studio 2015\Projects\Mono_Zadatak1\Project.Code\obj\Debug\Project.Code.pdb
